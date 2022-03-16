@@ -1,0 +1,52 @@
+h1{color:mediumaquamarine;}
+/* *{
+    border:solid crimson;
+} */
+
+.header{
+    border:solid black;
+    display:flex;
+    justify-content:space-around;
+    background-color:orange ;
+
+}
+
+body{
+
+    background-color: #000 ;
+}
+
+.projectmenu{
+    border:solid black;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+p{
+    text-align:center;
+
+}
+
+.footer{
+    display:flex;
+    justify-content:space-evenly;
+}
+
+#info{color: chocolate; font-size: 100px; margin: 100px; padding: 50px ;}
+    #info2{color: chocolate; font-size: 50px;margin: 100px; padding: 50px}
+        #info3{color: chocolate; font-size: 25px ;margin: 100px; padding: 50px}
+
+
+
+
+
+
+
+
+
+
+
